@@ -2,3 +2,7 @@ Here is the index.txt file in the main branch
 
 Here is a line
 Here is another
+
+-------------------------------------------------------------------------------------
+These lines were included after branching off into a branch called 'New-Features'
+-------------------------------------------------------------------------------------
